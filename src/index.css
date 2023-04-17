@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+ 
+}
+.ak{
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+
+}
+:root{
+  background-color: #000100
+}

@@ -1,0 +1,47 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Three columns with equal width */
+    gap: 0.1rem; /* Gap between grid items */
+    margin: 100px 150px;
+   
+    
+    
+
+
+  
+  }
+  
+  .card {
+    /* Styles for the card, e.g., width, height, padding, etc. */
+    
+    padding: 20%;
+    border-radius: 5px;
+    cursor: pointer;
+    
+    
+    
+   
+   
+    
+    
+  }
+  .card h2,p{
+    color:#fff;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif; 
+    
+    
+    
+    
+    
+  }
+
+  .my-item {
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  }
+
+  
+  
